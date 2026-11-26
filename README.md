@@ -1,6 +1,6 @@
 # Python for Astronomy Workshops & Student Labs
 
-A curated collection of interactive Jupyter Notebooks and guided lab exercises developed by **Dr. Ravi Raja Pothineni** for undergraduate Value-Added Courses (St. Joseph's Degree & PG College, Bhavan's Vivekananda Degree College), **Indian Space School**, and **ASTRO** training programmes.
+A curated collection of interactive Jupyter Notebooks and guided lab exercises developed for undergraduate Value-Added Courses and **ASTRO** training programmes.
 
 Built for school students, undergraduates, and aspiring researchers learning computational astronomy from the ground up, each notebook pairs step-by-step code with clear physical intuition so learners see how raw astronomical data turns into astrophysical measurements.
 
