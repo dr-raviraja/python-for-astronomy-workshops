@@ -1,0 +1,25 @@
+star_name,spectral_type,teff_k,lum_lsun,radius_rsun,group
+Sun,G2V,5778,1.0,1.00,Main Sequence
+Sirius A,A1V,9940,25.4,1.71,Main Sequence
+Vega,A0V,9602,40.1,2.36,Main Sequence
+Altair,A7V,7556,10.6,1.63,Main Sequence
+Procyon A,F5IV-V,6530,6.9,2.05,Main Sequence
+Alpha Centauri A,G2V,5790,1.52,1.22,Main Sequence
+Tau Ceti,G8V,5344,0.52,0.79,Main Sequence
+Epsilon Eridani,K2V,5084,0.34,0.74,Main Sequence
+61 Cygni A,K5V,4526,0.15,0.67,Main Sequence
+Proxima Centauri,M5.5Ve,3042,0.0017,0.15,Main Sequence
+Barnard's Star,M4V,3134,0.0035,0.20,Main Sequence
+Spica,B1III-IV,22400,20500,7.47,Main Sequence
+Achernar,B6Vep,14510,3150,7.30,Main Sequence
+Aldebaran,K5III,3910,425,44.2,Giant
+Pollux,K0III,4665,32.7,8.8,Giant
+Arcturus,K1.5III,4286,170,25.4,Giant
+Mira A,M7IIIe,3050,8400,370,Giant
+Betelgeuse,M1-M2Ia-ab,3500,100000,764,Supergiant
+Rigel,B8Ia,12100,120000,78.9,Supergiant
+Deneb,A2Ia,8525,196000,203,Supergiant
+Antares,M1.5Iab,3660,75900,680,Supergiant
+Sirius B,DA2,25200,0.026,0.0084,White Dwarf
+Procyon B,DQZ,7740,0.00049,0.012,White Dwarf
+40 Eridani B,DA4,16500,0.013,0.0136,White Dwarf
